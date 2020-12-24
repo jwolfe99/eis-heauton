@@ -53,8 +53,8 @@ textarea,
 }
 
 .rm-page-ref-tag {
-  color: #0000A0;
-	background-color: #ff8900;
+  color: #0000A0 !important;
+  background-color: #ff8900;
 }
 
 /* Blue link */
